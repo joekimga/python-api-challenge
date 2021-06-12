@@ -14,7 +14,7 @@ But, if pressed, how would you **prove** it?
 
 In this example, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To do this, I utilized a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), to create a representative model of weather across world cities.
 
-Scatter plots to showcase the following relationships:
+Scatter plots were used to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
@@ -51,7 +51,5 @@ Jupyter-gmaps and the Google Places API was used for this part of the assignment
   * Wind speed less than 10 mph.
 
   * Zero cloudiness.
-
-  * Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
 
   ![hotel map](Images/hotel_map.png)
