@@ -33,8 +33,6 @@ A Linear regression was run on each relationship. The plots in the Northern Hemi
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-After each pair of plots, take the time to explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
-
 
 ### Part II - VacationPy
 
@@ -46,7 +44,7 @@ Jupyter-gmaps and the Google Places API was used for this part of the assignment
 
   ![heatmap](output_data/heatmapsdownloadmap.png)
 
-* Narrow down the DataFrame to find your ideal weather condition. For example:
+* The DataFrame was narrowed down to find the ideal weather conditions. For example:
 
   * A max temperature lower than 80 degrees but higher than 70.
 
@@ -55,11 +53,5 @@ Jupyter-gmaps and the Google Places API was used for this part of the assignment
   * Zero cloudiness.
 
   * Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
-
-  * **Note:** Feel free to adjust to your specifications but be sure to limit the number of rows returned by your API requests to a reasonable number.
-
-* Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
-
-* Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
   ![hotel map](Images/hotel_map.png)
