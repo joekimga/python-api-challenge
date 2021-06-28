@@ -17,16 +17,16 @@ In this example, I created a Python script to visualize the weather of 500+ citi
 Scatter plots were used to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
-![fig1](https://user-images.githubusercontent.com/28760237/123585877-ebca0280-d7b1-11eb-89b9-8f210077f17a.png)
+* ![fig1](https://user-images.githubusercontent.com/28760237/123585877-ebca0280-d7b1-11eb-89b9-8f210077f17a.png)
 
 * Humidity (%) vs. Latitude
-![fig2](https://user-images.githubusercontent.com/28760237/123585898-f1274d00-d7b1-11eb-8d86-3109412da891.png)
+* ![fig2](https://user-images.githubusercontent.com/28760237/123585898-f1274d00-d7b1-11eb-8d86-3109412da891.png)
 
 * Cloudiness (%) vs. Latitude
-![fig3](https://user-images.githubusercontent.com/28760237/123585909-f71d2e00-d7b1-11eb-894c-7a74c87ec1a1.png)
+* ![fig3](https://user-images.githubusercontent.com/28760237/123585909-f71d2e00-d7b1-11eb-894c-7a74c87ec1a1.png)
 
 * Wind Speed (mph) vs. Latitude
-![fig4](https://user-images.githubusercontent.com/28760237/123585972-0d2aee80-d7b2-11eb-9779-f7372a088f27.png)
+* ![fig4](https://user-images.githubusercontent.com/28760237/123585972-0d2aee80-d7b2-11eb-9779-f7372a088f27.png)
 
 
 
