@@ -60,4 +60,3 @@ Jupyter-gmaps and the Google Places API was used for this part of the assignment
 
   * Zero cloudiness.
 
-  ![hotel map](Images/hotel_map.png)
